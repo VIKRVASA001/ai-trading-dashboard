@@ -9,7 +9,7 @@
     "start": "ts-node server.ts"
   },
   "dependencies": {
-    "@google/genai": "^0.1.1",
+    "@google/genai": "latest",
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "helmet": "^7.1.0",
