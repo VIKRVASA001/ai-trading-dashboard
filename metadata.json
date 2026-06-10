@@ -1,0 +1,6 @@
+{
+  "name": "VVM Trading Dashboard",
+  "description": "Professional stock and index trading dashboard with live feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
